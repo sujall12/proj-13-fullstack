@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    background-color: #6c38d3;
+    height: 50rem;
+    
+}
+
+
+
+
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-left: 20rem;
+    color: white;
+    font-size: larger;
+    margin-top: -2rem;
+    list-style-type: none;
+}
+
+.logopng{
+    margin-top: 3rem;
+    margin-left: 7rem;
+}
+
+.nav-bars:nth-child(1){
+    color: #7bebfe;
+    text-decoration: underline;
+    font-size: x-large;
+    margin-top: -0.2rem;
+}
+
+
+.nav-btn{
+    padding: 15px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    background-color: #0ea4bb;
+    border-radius: 7px;
+    color: white;
+    margin-top: -1rem;
+}
+
+
+.cloud{
+    margin-left: 45%;
+    margin-top: 4rem;
+}
+
+
+.container-title{
+    color: white;
+    font-size: 4.5rem;
+    font-family: "poppins" sans-serif;
+    width: 350px;
+    margin-top: -30rem;
+    margin-left: 6rem;
+}
+
+
+.container-details{
+    color: white;
+    font-size: larger;
+    width: 350px;
+    margin-top: 2rem;
+    margin-left: 6rem;
+}
+
+
+.Division-1{
+    margin-left: 58%;
+    margin-top: 6rem;
+}
+
+.laptop{
+    margin-top: 11rem ;
+    margin-left: 8rem;
+}
+
+.right{
+    width: 400px;
+    font-size: large;
+}
+
+
+.list-details{
+    margin-top: 1.5rem;
+    width: 400px;
+    color: #636363;
+
+}
+
+
+.list-title{
+    margin-top: 2rem;
+}
+
+
+.Division-2{
+    margin-top: 10rem;
+}
+
+
+.Title-1{
+    text-align: center;
+    font-family: "orbitons", sans-serif;
+    font-size: 3rem;
+}
+
+
+.card-container{
+    display: flex;
+    margin-top: 8rem;
+    gap: 80px;
+    margin-left: 3rem;
+    
+}
+
+.Division-2{
+    height: 550px;
+}
+
+
+.card-details{
+    width: 210px;
+    margin-top: 2rem;
+    font-size: large;
+    text-align: center;
+}
+
+
+.card-title{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    
+}
+
+
+.end-img{
+    margin-left: 1.5rem;
+}
+
+#end-img{
+    margin-left: 2rem;
+}
+
+
+.card{
+    
+    padding: 2px;
+    height: 320px;
+    box-shadow: 0 0 5px grey;
+    border-radius: 10px;
+    
+    
+    
+}
+
+
+.card:hover{
+    box-shadow: 0px 5px 2px 5px crimson;
+}
+
+
+.card-text{
+    background-color: #9638d9;
+    
+    padding: 27px;
+    padding-left: 20px;
+    margin-top: 0.5rem;
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px;
+}
