@@ -2,9 +2,9 @@
 
 ## By Sujal
 
-## [Link for Project 13](https://proj-13-fullstack.netlify.app/) 
+## [Link for Project 13](https://proj-13-mobile-responsive.netlify.app/) 
 
-![project 13 completed](./Screenshot_2.png)
+![project 13 completed](./screenshot.png)
 
 ## What I learned ? How was my experience while making this project?
 
@@ -16,4 +16,4 @@
 - I learned about the properties of positions of elements in the HTML and CSS.
 - I learned about linear gradiant property
 
-## This project took almost 5 hours to complete.
+## This project took almost 3 hours to complete.
